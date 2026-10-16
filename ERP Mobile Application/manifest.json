@@ -1,0 +1,13 @@
+{
+  "name": "IG Packhouse - Cold Room",
+  "short_name": "Cold Room",
+  "start_url": "./packhouse_mobile.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%230f172a'/%3E%3Ctext x='256' y='330' font-size='260' text-anchor='middle' fill='%23fde047' font-family='Arial Black'%3EIG%3C/text%3E%3C/svg%3E", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
